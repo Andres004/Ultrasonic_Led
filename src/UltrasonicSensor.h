@@ -12,4 +12,4 @@ class UltrasonicSensor {
     void begin();
     float measureDistance();
 };
-#endif
+#endif.
